@@ -1,0 +1,705 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.8.9)  29 OCT 2012 08:37
+entering extended mode
+ %&-line parsing enabled.
+**GSNOMC.tex
+(./GSNOMC.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, portuguese, loaded.
+(./el-author.cls
+
+LaTeX Warning: You have requested document class `el-author',
+               but the document class provides `IEE'.
+
+Document Class: IEE 2000/05/19 v1.4b Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texmf-texlive/tex/latex/amscls/amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks15
+\thm@bodyfont=\toks16
+\thm@headfont=\toks17
+\thm@notefont=\toks18
+\thm@headpunct=\toks19
+\thm@preskip=\skip43
+\thm@postskip=\skip44
+\thm@headsep=\skip45
+\dth@everypar=\toks20
+)
+(/usr/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read1
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf-texlive/tex/latex/tools/xspace.sty
+Package: xspace 2006/05/08 v1.12 Space after command names (DPC,MH)
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amscd.sty
+Package: amscd 1999/11/29 v1.2d
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks24
+\ex@=\dimen105
+)
+\athelp@=\toks25
+\minaw@=\dimen106
+\bigaw@=\dimen107
+\minCDarrowwidth=\dimen108
+)
+(/usr/share/texmf-texlive/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count87
+\rotFPtop=\skip46
+\rotFPbot=\skip47
+\rot@float@box=\box26
+\rot@mess@toks=\toks26
+)
+(/usr/share/texmf-texlive/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+
+
+Package multicol Warning: May not work with the twocolumn option on input line 
+135.
+
+\mult@box=\box27
+\multicol@leftmargin=\dimen109
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen110
+\page@free=\dimen111
+\premulticols=\dimen112
+\postmulticols=\dimen113
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box28
+\last@line=\box29
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen114
+\multicolovershoot=\dimen115
+\multicolundershoot=\dimen116
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+) (/usr/share/texmf-texlive/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen117
+\extrarowheight=\dimen118
+\NC@list=\toks27
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+(/usr/share/texmf-texlive/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texmf-texlive/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks28
+\float@box=\box53
+\@float@everytoks=\toks29
+\@floatcapt=\box54
+)
+\@float@every@algorithm=\toks30
+\c@algorithm=\count97
+)
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip52
+\subfigcapskip=\skip53
+\subfigcaptopadj=\dimen119
+\subfigbottomskip=\skip54
+\subfigcapmargin=\dimen120
+\subfiglabelskip=\skip55
+\c@subfigure=\count98
+\c@lofdepth=\count99
+\c@subtable=\count100
+\c@lotdepth=\count101
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texmf-texlive/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip56
+\subfig@bottom=\skip57
+)
+(/usr/share/texmf-texlive/tex/latex/sttools/stfloats.sty
+Package: stfloats 1999/10/22
+\@dblbotnum=\count102
+\c@dblbotnumber=\count103
+)
+(/usr/share/texmf-texlive/tex/latex/preprint/balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen121
+)
+(/usr/share/texmf-texlive/tex/latex/lastpage/lastpage.sty
+Package: lastpage 1994/06/25 v0.1b LaTeX2e package for refs to last page number
+ (JPG)
+)
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen122
+)
+\l@british = a dialect from \language\l@english 
+\l@UKenglish = a dialect from \language\l@english 
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/share/texmf-texlive/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/share/texmf-texlive/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2001/05/28 v1.06 decimal alignment package (DPC)
+)
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 68.
+
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 100.
+
+) (/usr/share/texmf-texlive/tex/latex/tools/bm.sty
+Package: bm 2004/02/26 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldlasy=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 138.
+LaTeX Info: Redefining \bm on input line 204.
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip58
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+LaTeX Info: Redefining \boldsymbol on input line 54.
+\pmbraise@=\dimen123
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count105
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count106
+\leftroot@=\count107
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count108
+\DOTSCASE@=\count109
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count110
+\c@MaxMatrixCols=\count111
+\dotsspace@=\muskip11
+\c@parentequation=\count112
+\dspbrk@lvl=\count113
+\tag@help=\toks31
+\row@=\count114
+\column@=\count115
+\maxfields@=\count116
+\andhelp@=\toks32
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks33
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+\tablecaptionbox=\box57
+\tempdime=\dimen131
+\temptbox=\box58
+\c@appendix=\count117
+\symEulerExtension=\mathgroup11
+LaTeX Font Info:    Redeclaring math symbol \intop on input line 614.
+LaTeX Font Info:    Redeclaring math symbol \ointop on input line 615.
+\bibindent=\dimen132
+) (./GSNOMC.aux
+
+LaTeX Warning: Label `s(t)' multiply defined.
+
+)
+\openout1 = `GSNOMC.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 18.
+ (/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+\c@theorem=\count118
+\c@proposition=\count119
+\c@definition=\count120
+\c@lemma=\count121
+\c@remark=\count122
+LaTeX Font Info:    Try loading font information for T1+phv on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 27.
+
+(/usr/share/texmf-texlive/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <8.5> not available
+(Font)              size <8> substituted on input line 27.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.94997> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <4.25> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <4.25> not available
+(Font)              size <5> substituted on input line 27.
+
+LaTeX Font Info:    Try loading font information for U+euex on input line 27.
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuex.fd
+File: ueuex.fd 2009/06/22 v3.00 Euler extra symbols
+)
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7.5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 27.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5.24997> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <3.75> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 27.
+
+LaTeX Font Warning: Font shape `U/lasy/m/n' in size <3.75> not available
+(Font)              size <5> substituted on input line 27.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+ \T1/ptm/m/it/8.5 In-tro-duc-tion: [] \T1/ptm/m/n/8.5 Non-orthogonal Fre-quency
+ Di-vi-sion Mul-ti-plex-ing
+ []
+
+
+Underfull \hbox (badness 3396) in paragraph at lines 30--31
+\T1/ptm/m/n/8.5 (NOFDM) sys-tems are a mul-ti-car-rier mod-u-la-tion (MCM) sche
+me
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 36--37
+[]\T1/ptm/m/n/8.5 Recently, an-other work [[]] shows the pos-si-bil-ity to re-c
+over the
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 38--39
+\T1/ptm/m/n/8.5 Schmidt or-thog-o-nal-iza-tion pro-ce-dure. The au-thors claim 
+the sys-tem
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 38--39
+\T1/ptm/m/n/8.5 per-for-mance for AWGN chan-nel is equiv-a-lent to the BPSK sys
+-tem
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 40--43
+\T1/ptm/m/n/8.5 orthogonal QPSK car-ri-ers with spec-tral over-lap-ping ($\OT1/
+cmr/m/n/8 ^^A\OML/cmm/m/it/8 fT < \OT1/cmr/m/n/8 1$\T1/ptm/m/n/8.5 ) and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+\T1/ptm/m/n/8.5 The func-tion $\OML/cmm/m/it/8 ^^^[]\OT1/cmr/m/n/8 (\OML/cmm/m/
+it/8 t\OT1/cmr/m/n/8 )$ \T1/ptm/m/n/8.5 forms a or-thog-o-nal base and $\OML/cm
+m/m/it/8 d[]\OT1/cmr/m/n/8 [\OML/cmm/m/it/8 k\OT1/cmr/m/n/8 ] =
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 60--62
+[][] \OML/cmm/m/it/8 s\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 t\OT1/cmr/m/n/8 )\OML/cmm
+/m/it/8 ^^^[]\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 t\OT1/cmr/m/n/8 )\OML/cmm/m/it/8 d
+t$\T1/ptm/m/n/8.5 , $\OT1/cmr/m/n/8 (\OML/cmm/m/it/8 k \OMS/cmsy/m/n/8 ^^@ \OT1
+/cmr/m/n/8 1)\OML/cmm/m/it/8 T \OMS/cmsy/m/n/8 ^^T \OML/cmm/m/it/8 t < kT$\T1/p
+tm/m/n/8.5 . It is the pro-jec-tion of
+ []
+
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 71.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 81.
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 82.
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 83.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 88.
+
+
+LaTeX Warning: File `GSFDM_Mcarrier-1.eps' not found on input line 90.
+
+
+! LaTeX Error: File `GSFDM_Mcarrier-1.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 ...graphics[height=8cm]{GSFDM_Mcarrier-1.eps}
+                                                  %GSFDM_Mcarrier.eps GSFDMt...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Cannot determine size of graphic in GSFDM_Mcarrier-1.eps (no Bou
+ndingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.90 ...graphics[height=8cm]{GSFDM_Mcarrier-1.eps}
+                                                  %GSFDM_Mcarrier.eps GSFDMt...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: GSFDM_Mcarrier-1.eps Graphic file (type eps)
+<GSFDM_Mcarrier-1.eps>
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 91.
+
+Underfull \hbox (badness 1253) in paragraph at lines 96--98
+[]\T1/ptm/m/n/8.5 The ma-trix $\OT1/cmr/bx/n/8 B\OT1/cmr/m/n/8 [\OML/cmm/m/it/8
+ k\OT1/cmr/m/n/8 ]$ \T1/ptm/m/n/8.5 per-forms a lin-ear trans-for-ma-tion on th
+e QPSK
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 98.
+[1
+
+
+]
+File: fig1_IET2.eps Graphic file (type eps)
+ <fig1_IET2.eps>
+Overfull \hbox (9.54825pt too wide) in paragraph at lines 107--108
+ [] 
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 123--124
+\T1/ptm/m/n/8.5 for $\OML/cmm/m/it/8 M \OT1/cmr/m/n/8 = 2$\T1/ptm/m/n/8.5 . The
+ BER re-sults of the de-vel-oped sys-tem show us a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 123--124
+\T1/ptm/m/n/8.5 de-tec-tor shown in [[]]. This re-sult sug-gests a mis-un-der-s
+tood in the
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 149--150
+\T1/ptm/m/n/8 com-mu-ni-ca-tions in dou-bly dis-per-sive chan-nels," Se-lected 
+Ar-eas in
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 151--152
+\T1/ptm/m/n/8 via weyl-heisenberg frames over time-frequency dis-per-sive chan-
+nels,"
+ []
+
+
+Underfull \hbox (badness 3557) in paragraph at lines 153--154
+\T1/ptm/m/n/8 Net-work and Mul-ti-me-dia Tech-nol-ogy (IC-BNMT), 2010 3rd IEEE
+ []
+
+AED: lastpage setting LastPage [2] (./GSNOMC.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.25pt have occurred.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3235 strings out of 495042
+ 38398 string characters out of 1181921
+ 101525 words of memory out of 3000000
+ 6309 multiletter control sequences out of 15000+50000
+ 50783 words of font info for 104 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
+ 32i,9n,26p,1317b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on GSNOMC.dvi (2 pages, 19752 bytes).
